@@ -14,7 +14,7 @@ Next to the first prompt you will type in the ID number of the product you want 
 
 ![Alt text](/screenshots/app3.png "3rd Screenshot")
 
-A second prompt will then pop up and you will enter the quantity you would like of that product.
+A second prompt will then pop up and you will enter the quantity of that product you would like.
 
 ![Alt text](/screenshots/app4.png "4th Screenshot")
 
@@ -26,6 +26,6 @@ In this example you will see a quantity entered that the store does not have in 
 
 ![Alt text](/screenshots/app6.png "6th Screenshot")
 
-If this happens you will see an 'Insufficent Quantity' screen pop up that will tell you the store does not have the quantity of that product you entered in stock.
+If this happens you will see an 'Insufficient Quantity' message pop up that will tell you the store does not have the quantity of that product you entered in stock.
 
 ![Alt text](/screenshots/app7.png "7th Screenshot")
